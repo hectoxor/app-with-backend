@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret" : "Vlad Yunn",
+  "mongoUri": "mongodb+srv://hectoxor:Vlad2006*@cluster3.abh9uik.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+
+}
