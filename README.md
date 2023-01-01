@@ -1,1 +1,1 @@
-Registration and login app connected with MongoDB databases for next optimizations. 
+Registration and login react app connected with MongoDB databases for next optimizations. 
