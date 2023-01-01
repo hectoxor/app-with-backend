@@ -1,1 +1,1 @@
-Registration app connected with MongoDB databases. 
+Registration and login app connected with MongoDB databases for next optimizations. 
